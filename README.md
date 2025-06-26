@@ -1,7 +1,9 @@
 # Travel
+
 A simple and responsive travel website built using HTML and CSS. This project showcases beautiful travel destinations, provides information about packages, and includes sections like Home, About, Services, Packages, and Contact.
 
 📌 Features
+
 ✅ Fully responsive layout
 
 ✅ Clean and modern design
